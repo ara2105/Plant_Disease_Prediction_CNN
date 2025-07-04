@@ -19,7 +19,7 @@ This project uses the [PlantVillage Dataset](https://www.kaggle.com/datasets/abd
   - Corn healthy
   - Tomato Early blight
 
- ### ⚡ Final Validation Results
+ ###Final Validation Results
 | Metric              | Score       |
 |---------------------|-------------|
 | **Training Accuracy**        | 96.23%      |
